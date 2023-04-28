@@ -2,7 +2,7 @@
 
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
-Versions used are as follows:
+Versions used:
 
 * Ubuntu 16.04
 * PCL - v1.7.2
